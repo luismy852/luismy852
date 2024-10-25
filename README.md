@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Lenguajes y herramientas
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,git,github,idea,vscode,postman" />
   </a>
 </p>
