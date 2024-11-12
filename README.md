@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## Lenguajes y herramientas
   <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,git,github,idea,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,git,github,idea,vscode,postman,postgres" />
   </a>
 </p>
